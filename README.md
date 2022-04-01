@@ -1,6 +1,6 @@
 # tokopokemon
 
-Demo : tokopokemon.tegvr.com
+Demo : https://tokopokemon.tegvr.com
 
 Stack
 - Create-react-app
